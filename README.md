@@ -1,6 +1,10 @@
-### Hi there 👋
+
+<h1 align="center"> Hello there! You've reached Unmani Shinde.👋</h1>
 
 <!--
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unmani-shinde&label=Profile%20views&color=0e75b6&style=flat" alt="unmani-shinde" /> </p>
+
 **unmani-shinde/unmani-shinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
