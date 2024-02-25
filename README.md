@@ -20,7 +20,7 @@ AMA 💭 : **Web3**, **Blockchain** and **Non-Fungible Tokens(NFTs)**
 ## 💻 Technologies & Tools
 <table align="center" border="0">
   <tr>
-    <td width="600px">
+    <td width="400px">
       <ol>
         <li><strong>Web Development:</strong> <img src="https://img.shields.io/badge/-EXPERT-brightgreen">
           <ul>
